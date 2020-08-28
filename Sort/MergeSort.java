@@ -12,9 +12,9 @@ import java.util.Arrays;
 public class MergeSort {
 
     public static void main(String[] args) {
-        int arr[] = { 51, 46, 20, 18, 65, 97, 82, 30, 77, 50 };
-        mergeSort(arr, 0, arr.length - 1);
-        System.out.println("排序结果：" + Arrays.toString(arr));
+        int[] array = { 51, 46, 20, 18, 65, 97, 82, 30, 77, 50 };
+        mergeSort(array, 0, array.length - 1);
+        System.out.println("排序结果：" + Arrays.toString(array));
     }
 
     public static void mergeSort(int[] arr, int low, int high) {
