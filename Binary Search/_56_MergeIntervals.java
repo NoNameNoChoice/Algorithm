@@ -19,11 +19,7 @@ public class _56_MergeIntervals {
             return intervals;
         }
 
-        Arrays.sort(intervals, new Comparator<int[]>() {
-            public int compare(int[] o1, int [] o2) {
-                return o1[0] - o2[0];
-            }
-        });
+        Arrays.sort(intervals, Comparator.comparingInt(o -> o[0]));
 
         List<int[]> result = new ArrayList<>();
         int[] newInterval = intervals[0];
