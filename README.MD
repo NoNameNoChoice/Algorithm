@@ -3,7 +3,7 @@
 Leetcode 刷题算法总结
 
 ## Binary Search
--  56. Merge Intervals
+- 056. Merge Intervals
 - 729. My Calendar I
 
 ## Sort
