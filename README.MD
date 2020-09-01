@@ -1,5 +1,6 @@
-#Algorithm
-- Leetcode 刷题算法总结
+##Algorithm
+
+Leetcode 刷题算法总结
 
 ## Binary Search
 - 056 Merge Intervals
