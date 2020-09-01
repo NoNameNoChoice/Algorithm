@@ -3,8 +3,8 @@
 Leetcode 刷题算法总结
 
 ## Binary Search
-- 056 Merge Intervals
-- 729 My Calendar I
+- 056.Merge Intervals
+- 729.My Calendar I
 
 ## Sort
 - Quick Sort
@@ -12,4 +12,4 @@ Leetcode 刷题算法总结
 - Quick Select
 
 ##Tree
-- 669 Trim Binary Search Tree
+- 669.Trim Binary Search Tree
