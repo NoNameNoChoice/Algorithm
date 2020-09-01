@@ -12,4 +12,5 @@ Leetcode 刷题算法总结
 - Quick Select
 
 ##Tree
+- 145.Binary Tree Postorder Traversal
 - 669.Trim Binary Search Tree
