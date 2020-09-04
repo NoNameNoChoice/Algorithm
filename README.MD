@@ -11,6 +11,6 @@ Leetcode 刷题算法总结
 - Merge Sort
 - Quick Select
 
-##Tree
+## Tree
 - 145.Binary Tree Postorder Traversal
 - 669.Trim Binary Search Tree
